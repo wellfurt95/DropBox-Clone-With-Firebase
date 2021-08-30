@@ -1,3 +1,3 @@
 DropBlox clone using firebase Storage and firebase Database Realtime
 
-![Alt text](public/img/Screenshot.png?raw=true "Foto da aplicação")
+![Screenshot](https://user-images.githubusercontent.com/32603594/131354844-6400a26f-f16b-40cd-a31c-10d432240a11.png)
